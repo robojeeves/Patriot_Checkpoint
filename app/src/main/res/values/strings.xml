@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="title_home">Home</string>
+    <string name="welcome_msg">Hey world! It\'s been a hot minute.</string>
+    <string name="power_switch_on">Goodbye?</string>
+    <string name="power_switch_off">Hello?</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
